@@ -5,7 +5,7 @@ hero:
     text: Vite &Vue powered static site generator.
     tagline: Lorem ipsum...
     image:
-        src: /logo.jpg
+        src: /images/logo.jpg
         alt: logo
     actions:
     - theme: brand
@@ -31,4 +31,5 @@ features:
     link: /guide/start
     linkText: Learn More
 ---
-
+<script>
+</script>

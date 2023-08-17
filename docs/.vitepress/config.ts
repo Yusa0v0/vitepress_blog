@@ -10,7 +10,7 @@ export default defineConfig({
     //主题配置
     themeConfig: {
         //右上角标题左边的logo
-        logo: '/vitepress-logo-mini.svg',
+        logo: '/images/vitepress-logo-mini.svg',
         // siteTitle: 'Hello World',
         //右上角的导航栏
         nav: [
