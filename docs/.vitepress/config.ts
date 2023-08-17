@@ -15,7 +15,7 @@ export default defineConfig({
         //右上角的导航栏
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Guide', link: '/guide/' },
+            { text: 'Guide', link: '/guide/guide' },
             { text: 'External', link: 'https://google.com' },
             {
                 text: 'Languages',
