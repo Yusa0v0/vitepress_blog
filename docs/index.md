@@ -31,5 +31,12 @@ features:
     link: /guide/start
     linkText: Learn More
 ---
-<script>
+
+<!-- <span v-for="i in 3">{{ i }} </span> -->
+
+<!-- # Docs -->
+<script setup>
+  import APlayer from '/components/APlayer.vue'
 </script>
+<APlayer />
+

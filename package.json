@@ -8,6 +8,7 @@
     "serve": "vitepress serve docs"
   },
   "devDependencies": {
+    "@types/node": "^20.5.0",
     "vitepress": "1.0.0-alpha.28",
     "vue": "3.2.44"
   },
@@ -19,6 +20,10 @@
     }
   },
   "dependencies": {
-    "directory-tree": "^3.5.1"
+    "aplayer": "^1.10.1",
+    "directory-tree": "^3.5.1",
+    "meting": "^2.0.1",
+    "sass": "^1.66.0",
+    "vite-plugin-require-transform": "^1.0.21"
   }
 }

@@ -1,7 +1,10 @@
 import { defineConfig } from 'vitepress'
 
+import requireTransform from 'vite-plugin-require-transform';
+
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
+
     lang: "zh-CN",
     //左上角的标题
     title: 'Yusa_Blog',
